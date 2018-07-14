@@ -12,8 +12,11 @@ class MapViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        
         print("commit map")
         print("commit map again")
+        print("commit map once again")
+
 
 
         // Do any additional setup after loading the view.
