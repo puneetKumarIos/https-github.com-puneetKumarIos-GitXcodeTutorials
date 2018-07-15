@@ -1,24 +1,20 @@
 //
-//  MapViewController.swift
+//  LoginViewController.swift
 //  GitSample
 //
-//  Created by Puneet Kumar on 14/07/18.
+//  Created by Puneet Kumar on 15/07/18.
 //  Copyright © 2018 Puneet Kumar. All rights reserved.
 //
 
 import UIKit
 
-class MapViewController: UIViewController {
+class LoginViewController: UIViewController
+{
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        
-        print("commit map")
-        print("commit map again")
-        print("commit map once again")
 
-
-        // Do any additional setup after loading the view.
+        print("Login")
     }
 
     override func didReceiveMemoryWarning() {

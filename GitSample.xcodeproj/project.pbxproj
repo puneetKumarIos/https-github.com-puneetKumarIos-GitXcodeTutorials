@@ -14,6 +14,7 @@
 		B70AB8EF20FA127400DF9C1B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B70AB8ED20FA127400DF9C1B /* LaunchScreen.storyboard */; };
 		B70AB8FA20FA127400DF9C1B /* GitSampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B70AB8F920FA127400DF9C1B /* GitSampleTests.swift */; };
 		B70AB90520FA127400DF9C1B /* GitSampleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B70AB90420FA127400DF9C1B /* GitSampleUITests.swift */; };
+		B7A7A3F320FB5C1B0040622C /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7A7A3F220FB5C1B0040622C /* LoginViewController.swift */; };
 		B7FD83F520FA1C5900F46DED /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7FD83F420FA1C5900F46DED /* MapViewController.swift */; };
 /* End PBXBuildFile section */
 
@@ -48,6 +49,7 @@
 		B70AB90020FA127400DF9C1B /* GitSampleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitSampleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B70AB90420FA127400DF9C1B /* GitSampleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitSampleUITests.swift; sourceTree = "<group>"; };
 		B70AB90620FA127400DF9C1B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B7A7A3F220FB5C1B0040622C /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		B7FD83F420FA1C5900F46DED /* MapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -103,6 +105,7 @@
 				B70AB8E620FA127300DF9C1B /* ViewController.swift */,
 				B70AB8E820FA127300DF9C1B /* Main.storyboard */,
 				B7FD83F420FA1C5900F46DED /* MapViewController.swift */,
+				B7A7A3F220FB5C1B0040622C /* LoginViewController.swift */,
 				B70AB8EB20FA127400DF9C1B /* Assets.xcassets */,
 				B70AB8ED20FA127400DF9C1B /* LaunchScreen.storyboard */,
 				B70AB8F020FA127400DF9C1B /* Info.plist */,
@@ -259,6 +262,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B7A7A3F320FB5C1B0040622C /* LoginViewController.swift in Sources */,
 				B70AB8E720FA127300DF9C1B /* ViewController.swift in Sources */,
 				B7FD83F520FA1C5900F46DED /* MapViewController.swift in Sources */,
 				B70AB8E520FA127300DF9C1B /* AppDelegate.swift in Sources */,
